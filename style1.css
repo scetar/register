@@ -1,0 +1,34 @@
+label{
+    display:block;
+    padding:10px;
+    color:darkgreen;
+}
+form{
+    text-align:center;
+    background-color: yellow;
+    margin:10px 500px 10px 500px;
+   
+}
+body{
+    background-color: antiquewhite;
+    background-image: url('b.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+    
+}
+h1{
+    text-align: center;
+    
+}
+#submit{
+    padding:10px;
+    
+}
+input[type=submit]{
+    background-color: beige;
+}
+input[type=submit]:hover{
+    background-color: rgb(255, 0, 221);
+}
